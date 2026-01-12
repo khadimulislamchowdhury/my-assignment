@@ -183,4 +183,6 @@ footer {
     background-color: #469165;
     transition: 1s;
     transform: translate(14px);
+#problem .problem-container {
+    padding-top: 50px;
 }
