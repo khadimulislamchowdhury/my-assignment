@@ -211,3 +211,47 @@ footer {
     color:#627382 ;
 }
 /* !---------problem section style end-------- */
+/*  ?---------solution section start---------- */
+
+#solution .solution-box {
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.solution-box .solution-content .solution-text {
+    font-size: 16px;
+    text-transform: uppercase;
+    line-height: 20px;
+    color: #469165;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+
+.solution-box .solution-content h2 {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.solution-box .solution-content .solution-info {
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+    margin-bottom: 40px;
+}
+
+.solution-box .solution-content .solution-list li {
+    list-style: none;
+    display: flex;
+    align-items: flex-start;
+    gap: 6px;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 16px;
+    color: #001931;
+}
+
+/*  ?---------solution section end------- */
+
+/*  !----------call to action area style start------- */
